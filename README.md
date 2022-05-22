@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Alessandra1718
+
+
+              Hello!!
+........¡¡¡ I’m @Alessandra1718 !!!..........
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on ...
