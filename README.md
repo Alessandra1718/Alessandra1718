@@ -13,12 +13,13 @@ A bit of information that might be usefull to everyone:
    - 💻 I am not looking to collaborate on projects at the very moment 
    - 🔠 I can communicate in Spanish as well as English. 
    - ⭐ the joke to my banner and profile picture is in the fact that one of the most used features on GitHub is the "Git Pull" feature 
+     -> in French the word "Pull" or correctly spelled "Poule" (same pronunciation) means chiken
          
-         -> in French the word "Pull" or correctly spelled "Poule" (same pronunciation) means chiken
-         
-         -> so here are some code themed Git Poules! 
-         🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔
-         ( all the code on the actual chikens is mine as well as the art itself, please do not reuse it without written permission from me) 
+     -> so here are some code themed Git Poules! 
+     🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔
+     
+     ( all the code on the actual chikens is mine as well as the art itself, 
+     please do not reuse it without written permission from me) 
          
          
 🎨 Art Infromation: 
