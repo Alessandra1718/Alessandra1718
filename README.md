@@ -1,8 +1,8 @@
 Hello!
-
 ........¡¡¡ I’m @Alessandra1718 !!!..........
             welcome to my profile !
             
+✨   ✨ 🐔     🐤     ✨   ✨   🐔     🐤     ✨    ✨  🐔     🐤   ✨   ✨            
 ![git-banner](https://user-images.githubusercontent.com/92768931/173251231-7a45e2b3-f335-49f9-b43a-3a0922dc7e75.jpg)
 
 ✨   ✨ 🐔     🐤     ✨   ✨   🐔     🐤     ✨    ✨  🐔     🐤   ✨   ✨
