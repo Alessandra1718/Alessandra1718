@@ -7,7 +7,9 @@ Hello!
 
 ✨   ✨ 🐔     🐤     ✨   ✨   🐔     🐤     ✨    ✨  🐔     🐤   ✨   ✨
 
+
 A bit of information that might be usefull to everyone: 
+ℹ️                 🗒️                 ℹ️
 
    - 🐍 I am learning python currently 
    - 🤖 I have experince with the Arduino and it's coding langauge 
@@ -21,6 +23,10 @@ A bit of information that might be usefull to everyone:
      
      ( all the code on the actual chikens is mine as well as the art itself, 
      please do not reuse it without written permission from me) 
+         
+         
+         
+         
          
          
 🎨 Art Infromation: 
