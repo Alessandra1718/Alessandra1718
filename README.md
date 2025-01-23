@@ -11,8 +11,9 @@ Hello!
 A bit of information that might be usefull to everyone: 
 ℹ️                 🗒️                 ℹ️
 
-   - 🐍 I am learning python currently 
-   - 🤖 I have experince with the Arduino and it's coding langauge 
+   - 🐍 I am currently learning python
+   - 🔠 I have participated in Girls Who Code camps twice last year, and intend to continue participating  
+   - 🤖 I have experince with the Arduino and its' coding langauge 
    - 💻 I am not looking to collaborate on projects at the very moment 
    - 🔠 I can communicate in Spanish as well as English. 
    - ⭐ the joke to my banner and profile picture is in the fact that one of the most used features on GitHub is the "Git Pull" feature 
